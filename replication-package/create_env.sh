@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the Conda environment name
-ENV_NAME="Awesome-Project"
+ENV_NAME="workenv11"
 
 echo "Environment Name: $ENV_NAME"
 

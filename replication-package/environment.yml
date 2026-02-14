@@ -1,4 +1,4 @@
-name: awsome-project
+name: workenv11
 channels:
   - conda-forge
   - defaults
@@ -29,7 +29,6 @@ dependencies:
   - pycountry
   - nb_conda_kernels
   - nbconvert
-  - stata_kernel
   - plotly
   - nodejs
   - geocoder
@@ -60,7 +59,6 @@ dependencies:
   - pip:
       - geonamescache
       - stargazer
-      - ipystata
       - pyfixest
       - isounidecode
       - binsreg
@@ -68,5 +66,4 @@ dependencies:
       - lets-plot
       - jupyterlab_stata_highlight3
       - dask-labextension
-      - hmi
       - stata_setup==0.1.3
